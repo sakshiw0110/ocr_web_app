@@ -1,4 +1,4 @@
+streamlit
+gradio
 pytesseract
 Pillow
-gradio
-regex
